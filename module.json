@@ -6,6 +6,9 @@
     "dependencies" :  [
         {
             "id" : "core"
+        },
+        {
+            "id" : "deepspace"
         }
     ]
 }
